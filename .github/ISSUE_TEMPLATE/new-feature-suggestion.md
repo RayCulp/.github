@@ -2,8 +2,8 @@
 name: New feature suggestion
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: new feature
+assignees: RayCulp
 
 ---
 
