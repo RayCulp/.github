@@ -1,7 +1,7 @@
 ---
 name: New feature
 about: Suggest an idea for this project
-title: ''
+title: "[NEW FEATURE] "
 labels: new feature
 assignees: RayCulp
 

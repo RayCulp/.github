@@ -1,7 +1,7 @@
 ---
 name: Improvement
 about: Improve existing code
-title: ''
+title: "[IMPROVEMENT] "
 labels: improvement
 assignees: RayCulp
 
