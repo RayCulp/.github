@@ -1,8 +1,8 @@
 ---
-name: New feature
-about: Suggest an idea for this project
+name: Improvement
+about: Improve existing code
 title: ''
-labels: new feature
+labels: improvement
 assignees: RayCulp
 
 ---
